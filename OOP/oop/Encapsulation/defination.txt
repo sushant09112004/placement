@@ -1,0 +1,13 @@
+// Encapsulation is one of the fundamental principles of Object-Oriented Programming (OOP). It refers to the concept of bundling 
+// data (variables) and methods (functions) that operate on that data into a single unit, typically a class,
+//  and restricting direct access to some of the object's components.
+
+
+
+
+//by sushant degination 
+// here encapsulation meanswrapping up the data & members finctions into a single unit called class.
+
+
+
+basic meanig is to access private element from the class and then use them main 
